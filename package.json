@@ -9,7 +9,7 @@
   "author": "ahmed andaloes",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.32.0",
     "request": "^2.88.2",
     "yargs": "^15.3.0"
   }
